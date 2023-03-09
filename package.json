@@ -4,6 +4,7 @@
   "description": "(progress overview at the bottom)",
   "main": "index.js",
   "scripts": {
+    "heroku-prebuild": "npm install --dev",
     "start": "webpack-dev-server .",
     "build": "webpack .",
     "predeploy": "npm run build",
