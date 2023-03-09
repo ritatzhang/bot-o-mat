@@ -1,0 +1,50 @@
+.container {
+  background: #0f2027; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #2c5364,
+    #203a43,
+    #0f2027
+  ) !important; /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #2c5364,
+    #203a43,
+    #0f2027
+  ) !important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  height: 100vh;
+}
+
+h1 {
+  font-family: "Space Mono", monospace !important;
+  color: white;
+  font-size: 60px !important;
+}
+
+p {
+  font-family: "Inter", sans-serif !important;
+  color: white;
+  font-size: 25px !important;
+}
+
+.center-content {
+  text-align: center;
+}
+
+.center-content > * {
+  margin: 15px 0;
+}
+
+.welcome-header {
+  padding-top: 3em;
+}
+
+.content {
+  font-family: "Inter", sans-serif !important;
+  color: white !important;
+  font-size: 25px !important;
+}
+/* 
+.tasklist {
+  max-width: 100%;
+} */
