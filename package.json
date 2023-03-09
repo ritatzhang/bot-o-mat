@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/RedVentures22/bot-o-mat-ritatzhang/issues"
   },
-  "homepage": "https://ritatzhang.github.io/bot-o-mat",
+  "homepage": "https://ritatzhang.github.io/bot-o-mat/",
   "devDependencies": {
     "@babel/cli": "^7.21.0",
     "@babel/core": "^7.21.0",
