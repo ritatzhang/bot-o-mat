@@ -10,7 +10,7 @@ module.exports = {
   },
   target: "web",
   devServer: {
-    port: "8080",
+    // port: "8080",
     static: {
       directory: path.join(__dirname, "public"),
     },
